@@ -4,8 +4,8 @@ Clone of Sephora Website
 Sephora Website is a cosmetic products web application.        
 
  
+ ![Sephora-clone](https://github.com/9802HEMENSAN/Clone-of-Sephora/assets/111531676/28a91ed1-820b-4bc0-83a9-80226b88f072)
 
- ![sephora clone](https://github.com/9802HEMENSAN/Clone-of-Sephora/assets/111531676/c1ca7563-c737-42be-b5c6-eb8f57db2d3b)
 
 
 ---
