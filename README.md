@@ -1,9 +1,12 @@
 # faithful-night-9583                                                                                                                                                    
-Clone of Sephora Website                                                                                                                                                
-Sephora Website is a cosmetic products web application.                                                                                                                
----
+Clone of Sephora Website       
+                                                                                                                                         
+Sephora Website is a cosmetic products web application.        
 
-![2022-12-22](https://user-images.githubusercontent.com/106810850/208999215-29b192e9-53fb-48a4-a8aa-54192e093086.png)
+ 
+
+ ![sephora clone](https://github.com/9802HEMENSAN/Clone-of-Sephora/assets/111531676/c1ca7563-c737-42be-b5c6-eb8f57db2d3b)
+
 
 ---
 
