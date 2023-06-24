@@ -6,15 +6,6 @@ Your ultimate destination for professional cosmetics. Discover a wide range of h
 
 ---
 
-## 💫Contributors->
-
--`Varun (Team Leader)` 
-
--`Aman Kumar`                                                                                                                                                                                                                                                                                 
--`Ayushi Bajpai`                                                                                                                                                            
--`Anandhu`                                                                                                                                                                  
--`Hemensan Mahilange`
-
 ## 🔗 Collaborators Profile Links✨
 
 | Collaborators                 | Github                                                                                                                                    | Linkedin                                                                                                                                                            | Portfolio                                                                                                                                     |
