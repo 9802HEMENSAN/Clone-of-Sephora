@@ -36,9 +36,9 @@ Your ultimate destination for professional cosmetics. Discover a wide range of h
 
   
 - #### Challenges we faced:-                                                                                                                                                     
--Merging each other code on GitHub                                                                                                                                        
--Read others code and make changes to it                                                                                                                                  
--Exact pixel-perfect cloning of the website   
+-Merging each others code on GitHub.                                                                                                                                       
+-Read others code and make changes to it.                                                                                                                                  
+-Exact pixel-perfect cloning of the website.  
 
 ---
 
